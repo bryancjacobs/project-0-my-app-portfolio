@@ -15,7 +15,7 @@
         android:textSize="@dimen/abc_dialog_padding_material" />
     <Button
         android:layout_height="wrap_content"
-        android:layout_width="fill_parent"
+        android:layout_width="match_parent"
         android:text="@string/spotify_streamer"
         android:onClick="spotify"
         android:id="@+id/spotifyButton"
@@ -29,7 +29,7 @@
 
     <Button
         android:layout_height="wrap_content"
-        android:layout_width="fill_parent"
+        android:layout_width="match_parent"
         android:text="@string/scores_app"
         android:onClick="scores"
         android:id="@+id/scoresButton"
@@ -42,7 +42,7 @@
 
     <Button
         android:layout_height="wrap_content"
-        android:layout_width="fill_parent"
+        android:layout_width="match_parent"
         android:text="@string/library_app"
         android:onClick="library"
         android:id="@+id/libraryButton"
@@ -55,7 +55,7 @@
 
     <Button
         android:layout_height="wrap_content"
-        android:layout_width="fill_parent"
+        android:layout_width="match_parent"
         android:text="@string/build_it_bigger"
         android:onClick="build"
         android:id="@+id/buildButton"
@@ -67,7 +67,7 @@
 
     <Button
         android:layout_height="wrap_content"
-        android:layout_width="fill_parent"
+        android:layout_width="match_parent"
         android:text="@string/xyz_reader"
         android:onClick="xyz"
         android:id="@+id/xyzButton"
@@ -80,7 +80,7 @@
 
     <Button
         android:layout_height="wrap_content"
-        android:layout_width="fill_parent"
+        android:layout_width="match_parent"
         android:text="@string/my_own_app"
         android:onClick="myOwnApp"
         android:id="@+id/myOwnAppButton"
