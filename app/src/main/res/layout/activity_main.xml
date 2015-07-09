@@ -74,6 +74,7 @@
         android:background="#ffffd13c"
         android:padding="15dp"
         android:layout_below="@+id/buildButton"
+        android:layout_marginBottom="20dp"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true" />
 
@@ -85,7 +86,7 @@
         android:id="@+id/myOwnAppButton"
         android:background="#ffff070b"
         android:padding="15dp"
-        android:layout_below="@+id/buildButton"
+        android:layout_below="@+id/xyzButton"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true" />
 
