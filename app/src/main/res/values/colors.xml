@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="lessons" type="color">#ffffd13c</item>
+    <item name="own" type="color">#ffff1408</item>
+</resources>
