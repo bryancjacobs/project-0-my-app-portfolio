@@ -66,10 +66,6 @@ public class MainActivity extends ActionBarActivity {
     }
 
     private void displayToast(String text) {
-
-        makeText(getApplicationContext(),
-                text,
-                LENGTH_SHORT).show();
-
+        makeText(getApplicationContext(), text,LENGTH_SHORT).show();
     }
 }
